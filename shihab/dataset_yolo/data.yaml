@@ -1,0 +1,7 @@
+
+    train: dataset_yolo//images/train
+    val: dataset_yolo//images/val
+
+    nc: 1
+    names: ['Carton']
+    
